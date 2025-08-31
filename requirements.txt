@@ -2,7 +2,6 @@ yt-dlp
 cryptography
 bs4
 requests
-rich
 pyfiglet
 #llama-cpp-python | SOLO si usa modelo local .gguf
 #anthropic        | SI piensa usar api
