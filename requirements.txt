@@ -1,9 +1,10 @@
 yt-dlp
+psutil
 cryptography
 bs4
 requests
 pyfiglet
-#llama-cpp-python | SOLO si usa modelo local .gguf
+#llama-cpp-python | si usa modelo local .gguf
 #anthropic        | SI piensa usar api
 #openai           | Si planea usar api
 rich
