@@ -5,7 +5,7 @@ Not as powerful as a real operating system, but designed to be **portable** with
 
 ---
 
-## Features
+## System
 
 - **ai** → local chat with GGUF model  
 - **bk** → back routes by levels  
@@ -51,4 +51,31 @@ Not as powerful as a real operating system, but designed to be **portable** with
 - **proxie** → scrape live proxies  
 - **scanp** → port scanner  
 - **ua** → user-agents + payloads  
+
+---
+
+## integrated
+- **help** → show all commands
+- **clear** → clean screen
+- **exit** → exit SminOs
+- **info** → info SminOs
+- **scan** → reload commands
+
+---
+
+## Installation
+
+```
+git clone https://github.com/slyxicpy/SminOS.git
+cd SminOS
+pip install -r requirements.txt
+python3 minso.py
+```
+
+# Win/linux env
+```python3 -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+```
+
 
