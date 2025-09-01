@@ -8,7 +8,7 @@ pyfiglet
 #anthropic        | SI piensa usar api
 #openai           | Si planea usar api
 rich
-PIL
+image
 getuseragent
 user_agent
 faker
