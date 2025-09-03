@@ -63,6 +63,8 @@ Not as powerful as a real operating system, but designed to be **portable** with
 
 ---
 
+![Start](nan.png)
+
 ## Installation
 
 ```
