@@ -12,3 +12,4 @@ image
 getuseragent
 user_agent
 faker
+termcolor
