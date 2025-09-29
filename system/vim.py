@@ -26,7 +26,7 @@ def run(*args, **kwargs):
     if not os.path.isfile(config_path):
         print(f"Vimrc no encontrado! shit!")
         return
-    work_dir = os.path.join(script_dir, 'work')
+    work_dir = os.path.join(script_dir, 'sminHome')
     if not os.path.exists(work_dir):
         try:
             os.mkdir(work_dir)

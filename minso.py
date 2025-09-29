@@ -42,8 +42,7 @@ def animacion():
 
 def montado():
     mount_points = [
-        "/system", "/bubbys", "/plugins", "/yourBubbys", 
-        "/OhBbby", "/DammBby", "/VeryBussy", "/Muack", "/YourBussy"
+        "/system", "/bubbys", "/plugins"
     ]
     #print(f"\n{Colors.YELLOW}{'#' * 40}{Colors.RESET}")
     print(f"{Colors.CYAN}[{Colors.WHITE} Montando... {Colors.CYAN}]{Colors.RESET}")

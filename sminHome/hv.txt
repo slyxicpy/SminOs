@@ -1,0 +1,29 @@
+// home by SminOs
+
+   // int SminOs                { use a su gusto esta humilde tool 's' }
+   // By styx
+   // Inspired in my girlfriend imaginary(the drugs killing me [x]_[x] )
+   // about dev:
+	// python 85%
+	// js(nodeJs) 30%
+	// c 70%
+	// tussiC (holyC) 67%
+   // about SminOs:
+	// abored boy and days boreds
+	// elabored by `styx` = high(thc+Alchool)
+	// version: beta
+	// future:
+	   Se piensa mejorar SminOs con estos cambios:
+		- Traduccion de archivos py a bajo nivel(more performance)
+		- Mas idiomas a disposicion
+		- (posible SminOs.iso) {
+			SminOs.iso esperado:
+			- enfocado en seguridad con filtrado Tor(on/off(predeterminado=on))
+			- personalizable(100%(incluso desde instalacion)) & OpenSource
+			- ligereza extrema}
+			- more functions about cibersegurity and hacking
+			- base 'linux'
+			}
+		- Lab bots(multiPlatform)
+		- Lab chem(lab quimico vrt)
+		//- 

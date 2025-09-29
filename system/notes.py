@@ -2,7 +2,7 @@ import os
 import curses
 import sys
 
-NOTES_DIR = os.path.expanduser("~/notesyx")
+NOTES_DIR = os.path.expanduser("sminHome/notes")
 
 def run(*args):
     note_name = None
